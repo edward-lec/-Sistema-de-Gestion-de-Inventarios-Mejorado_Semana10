@@ -3,6 +3,11 @@ from modelos.producto import Producto
 from servicios.inventario import Inventario
 
 
+# Importación de las clases necesarias desde los módulos del proyecto
+from modelos.producto import Producto
+from servicios.inventario import Inventario
+
+
 # Función que muestra el menú principal del sistema
 def mostrar_menu():
     print("SISTEMA DE GESTIÓN DE INVENTARIOS")

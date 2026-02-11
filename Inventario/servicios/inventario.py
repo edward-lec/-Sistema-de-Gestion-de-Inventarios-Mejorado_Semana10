@@ -4,10 +4,9 @@
 # Clase Inventario
 # Se encarga de gestionar todos los productos
 class Inventario:
-    def _init_(self):
+    def __init__(self):
         # Lista que almacena los productos del inventario
         self.productos = []
-
     # Método para agregar un nuevo producto
     def agregar_producto(self, producto):
         # Validamos que el ID no esté repetido
