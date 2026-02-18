@@ -6,7 +6,7 @@
 
 from modelos.producto import Producto
 
-
+# Clase inventario
 class Inventario:
     def __init__(self, archivo="inventario.txt"):
         """
