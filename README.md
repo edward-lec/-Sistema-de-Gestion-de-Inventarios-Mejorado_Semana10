@@ -17,6 +17,8 @@ main.py → Maneja la interfaz de usuario en consola.
 Esta estructura permite mantener el código organizado y modular.
 
 **3. Funcionamiento del Sistema**
+
+
 **3.1 Clase Producto**
 
 Representa cada artículo del inventario con los siguientes atributos:
